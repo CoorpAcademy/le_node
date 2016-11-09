@@ -42,20 +42,20 @@
     "npm": ">=1.4.6"
   },
   "dependencies": {
-    "babel-runtime": "5.4.7",
-    "codependency": "0.1.3",
+    "babel-runtime": "6.18.0",
+    "codependency": "0.1.4",
     "json-stringify-safe": "5.0.1",
-    "lodash": "3.9.3"
+    "lodash": "4.16.6"
   },
   "devDependencies": {
     "bunyan": "^1.3.4",
-    "gobble": "0.10.2",
-    "gobble-babel": "5.1.0",
-    "gobble-cli": "0.4.2",
+    "gobble": "0.11.3",
+    "gobble-babel": "6.0.0",
+    "gobble-cli": "0.7.0",
     "mitm": "^1.1.0",
-    "tap-spec": "^3.0.0",
+    "tap-spec": "^4.1.1",
     "tape": "^4.0.0",
-    "winston": "^1.0.0"
+    "winston": "^2.3.0"
   },
   "optionalPeerDependencies": {
     "winston": "~1.0.0"
